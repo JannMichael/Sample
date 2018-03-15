@@ -15,4 +15,4 @@ clone via URL
 git clone (URL)
 
 clone via IP
-git clone 
+git clone HTTPS://USERNAME@IPADDRESS/PATH
