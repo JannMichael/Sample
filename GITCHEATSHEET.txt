@@ -1,0 +1,18 @@
+git --config user.mail
+git --config user.name
+
+git init
+git add
+git commit -m "Message Here"
+git status
+git remote add origin (URL)
+git push -u origin master
+git status
+git log
+vi "file name"
+
+clone via URL
+git clone (URL)
+
+clone via IP
+git clone 
